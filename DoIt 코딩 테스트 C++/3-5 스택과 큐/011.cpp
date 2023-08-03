@@ -1,4 +1,5 @@
 // 백준 1874 번 / 스택으로 수열 만들기
+// https://www.acmicpc.net/problem/1874
 
 #include <iostream>
 #include <vector>

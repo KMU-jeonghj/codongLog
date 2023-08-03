@@ -1,4 +1,5 @@
 // 백준 17298번 / 오큰수 구하기
+// https://www.acmicpc.net/problem/17298
 
 #include <iostream>
 #include <vector>
